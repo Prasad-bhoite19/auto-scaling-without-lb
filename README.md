@@ -133,14 +133,14 @@ When an instance fails or is terminated, the Auto Scaling Group immediately laun
 ---
 
 ## 📸 Example Screenshots
-| Description | Image |
-|--------------|-------|
+| Description | 
+|--------------|
 | EC2 Instance | 
 | Launch Template | 
 | Auto Scaling Group | 
 ---
 
-## 🧭 Authors
+## 🧭 Author
 **Prasad**  
 ☁️ Cloud & DevOps Learner | AWS Practitioner  
 
