@@ -1,4 +1,4 @@
-# 🧠 AUTO-SCALING-WITHOUT-LOAD-BALANCER-TESTING
+# 🧠 AUTO-SCALING-WITHOUT-LB
 
 🚀 Hands-on project demonstrating **AWS EC2 Auto Scaling without a Load Balancer** — using **EC2, AMI, Launch Template, and Auto Scaling Group** to achieve **high availability**, **fault tolerance**, and **automated recovery** in the AWS Cloud environment.
 
