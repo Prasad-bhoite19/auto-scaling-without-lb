@@ -69,7 +69,7 @@ sudo nano index.html
 <h1>Welcome to Auto Scaling</h1>
 ```
 
-6] Verified by visiting:
+5] Verified by visiting:
 ```
 http://<public_ip>
 ```
@@ -144,7 +144,7 @@ User Request → Auto Scaling Group → EC2 Instances (Ubuntu + Nginx)
 
 When an instance fails or is terminated, the Auto Scaling Group immediately launches a replacement instance using the predefined Launch Template — ensuring uptime and stability without manual intervention.
 
-📊 Benefits of This Setup :-
+## 📊 Benefits of This Setup :-
 
 ✅ High Availability without LB
 
@@ -153,6 +153,7 @@ When an instance fails or is terminated, the Auto Scaling Group immediately laun
 ✅ Cost Optimization by scaling based on demand
 
 ✅ Hands-on learning of AWS Auto Scaling features
+
 ---
 
 ## 💡 Notes & Tips
