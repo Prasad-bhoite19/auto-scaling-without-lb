@@ -158,16 +158,23 @@ When an instance fails or is terminated, the Auto Scaling Group immediately laun
 ## 💡 Notes & Tips
 
 🔹Always use tags for resources to easily identify them
+
 🔹Adjust scaling policies according to traffic needs
+
 🔹Test fault tolerance by terminating instances manually
+
 🔹Consider ALB integration for real-world production scenarios
 
 ## 🚀 Future Enhancements :-
 
 🔹 **Integrate an Application Load Balancer (ALB)** for traffic distribution across multiple instances  
+
 🔹 **Add CloudWatch Monitoring** to visualize scaling metrics (CPU, Memory, Network)  
+
 🔹 **Use SNS Notifications** to receive alerts on scaling events  
+
 🔹 **Implement Lifecycle Hooks** for custom actions during instance launch/terminate  
+
 🔹 **Automate Deployment** using Infrastructure as Code (Terraform or CloudFormation)
 
 ---
@@ -176,12 +183,13 @@ When an instance fails or is terminated, the Auto Scaling Group immediately laun
 
 | Screenshot | Description |
 |------------|-------------|
-| ![EC2 Instance](Images/Auto-Create-New-Server.png) | EC2 Instance setup and Auto Creation |
-| ![Launch Template](Images/My-Template.png) | Launch Template configuration |
-| ![Auto Scaling Group](Images/Images/Auto-Scaling-Group.png) | Auto Scaling Group overview and active instances |
-| ![AMI](Images/My-AMI.png) | Lauch AMI |
+| EC2 Instance setup and Auto Creation |
+| Launch Template configuration |
+| Auto Scaling Group overview |
+| AMI |
 
-💡 **Tip:** Place all your screenshots inside a `screenshots` folder in your repo for clean structure.
+💡 **Tip:** Place all your screenshots inside a `Images` folder in your repo for clean structure.
+
 ---
 
 ## 🧭 Author :-
